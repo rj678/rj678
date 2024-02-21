@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-all of the work on this github profile is my personal contribution, and is in no way connected to, or endorsed by any of my previous or current employers.
+
